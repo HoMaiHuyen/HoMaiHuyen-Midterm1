@@ -19,6 +19,7 @@ function App() {
       <h1>PNV Team !!</h1>
       <p>Here are some PNV trainers and educators, do you know them?</p>
       <User /> {/* How to loop on ALL_PNV_TEACHERS list ? */}
+
     </div>
   );
 }
